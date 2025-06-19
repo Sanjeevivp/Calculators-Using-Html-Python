@@ -38,6 +38,12 @@ This repository contains two calculator applications developed using **Python** 
 python basic_calculator.py
 python scientific_calculator.py
 
+## 👨‍💻 Developed By
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Sanjeevi%20VP-blue?style=flat-square&logo=github" alt="Name Badge" />
+</p>
+
 <p align="center">
   <a href="mailto:sanjeevivp8@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/9442234287"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -47,3 +53,10 @@ python scientific_calculator.py
   <a href="https://x.com/SanjeeviVP845"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Firefox&logoColor=white" /></a>
 </p>
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
