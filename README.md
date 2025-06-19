@@ -7,6 +7,16 @@ This repository contains two calculator applications developed using **Python** 
 
 ---
 
+## 🔧 Tools Used
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tkinter-%230081CB?style=for-the-badge&logo=windows&logoColor=white" alt="Tkinter">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
+
+---
+
 ## 💡 Features
 
 ### ✅ Basic Calculator
