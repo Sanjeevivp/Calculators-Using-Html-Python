@@ -1,9 +1,10 @@
-# 🧮 Python GUI Calculator Projects
+# 🧮 Python & Web Calculator Projects
 
-This repository contains two calculator applications developed using **Python** and **Tkinter**:
+This repository contains three calculator applications:
 
-1. **Basic Calculator** – Performs simple arithmetic operations.
-2. **Scientific Calculator** – Includes advanced functions such as trigonometry, logarithms, powers, and more.
+1. **Basic Calculator (Python)** – Performs simple arithmetic operations.
+2. **Scientific Calculator (Python)** – Includes trigonometry, logarithms, powers, etc.
+3. **Scientific Calculator (HTML/CSS/JavaScript)** – Fully responsive UI with scientific functions in the browser.
 
 ---
 
@@ -13,33 +14,41 @@ This repository contains two calculator applications developed using **Python** 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Tkinter-%230081CB?style=for-the-badge&logo=windows&logoColor=white" alt="Tkinter">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 ---
 
 ## 💡 Features
 
-### ✅ Basic Calculator
+### ✅ Basic Calculator (Python)
 - Addition, Subtraction, Multiplication, Division
-- Keyboard-style layout with modern UI
-- Clear and Backspace support
-- Light and dark UI styling with hover effects
+- Modern UI with hover styling
+- Clear and Backspace buttons
 
-### ✅ Scientific Calculator
+### ✅ Scientific Calculator (Python)
 - All features of the basic calculator
-- Trigonometric functions: `sin`, `cos`, `tan`, `sec`, `csc`, `cot`
-- Logarithmic and exponential: `log`, `ln`, `exp`, `10^x`
-- Power and roots: `x²`, `x³`, `√x`, `n!`
+- `sin`, `cos`, `tan`, `sec`, `csc`, `cot`
+- `log`, `ln`, `exp`, `10^x`, `x²`, `√x`, `n!`
 - Constants: `π`, `e`
-- Factorials and modulus
-- Unit conversion: degree-based trig functions
+- Trigonometric support in degrees
+
+### ✅ Scientific Calculator (HTML/CSS/JS)
+- Operates directly in browser (desktop & mobile)
+- Trigonometric, logarithmic, and power functions
+- Responsive layout using CSS Grid
+- Styled buttons with hover effects
+- Vanilla JS-powered logic and evaluation
 
 ---
 
 ## 🖥 Requirements
 
-- Python 3.x
-- Tkinter (usually comes pre-installed with Python)
+- Python 3.x (for Python apps)
+- Tkinter (comes with Python)
+- Any web browser (for HTML/CSS/JS calculator)
 
 ---
 
